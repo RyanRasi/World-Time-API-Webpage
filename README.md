@@ -7,10 +7,8 @@ This web page uses the world time API to display the current time based on the a
 - [x] User can select a location
 - [x] API gets called based on paramters
 - [x] Current Time Displayed
-- [ ] Auto updating API
-- [ ] Simplify time output
+- [X] Simplify time output
 - [x] Styling
-- [x] Bootstrap integration
 - [x] References API on webpage
 
 
